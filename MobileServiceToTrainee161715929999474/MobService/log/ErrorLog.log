@@ -1,0 +1,38 @@
+22-Apr-2025 22:33:33 ERROR - Validator.INVALID_BRAND
+com.infy.exception.MobileServiceException: Validator.INVALID_BRAND
+	at com.infy.validator.Validator.validate(Validator.java:21) [classes/:?]
+	at com.infy.service.MobileServiceImpl.registerRequest(MobileServiceImpl.java:24) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.registerRequest(MobileServiceTester.java:41) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.main(MobileServiceTester.java:25) [classes/:?]
+22-Apr-2025 22:33:33 ERROR - Validator.INVALID_BRAND
+com.infy.exception.MobileServiceException: Validator.INVALID_BRAND
+	at com.infy.validator.Validator.validate(Validator.java:21) ~[classes/:?]
+	at com.infy.service.MobileServiceImpl.registerRequest(MobileServiceImpl.java:24) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.registerRequest(MobileServiceTester.java:41) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.main(MobileServiceTester.java:25) [classes/:?]
+22-Apr-2025 22:34:42 ERROR - Validator.INVALID_BRAND
+com.infy.exception.MobileServiceException: Validator.INVALID_BRAND
+	at com.infy.validator.Validator.validate(Validator.java:21) [classes/:?]
+	at com.infy.service.MobileServiceImpl.registerRequest(MobileServiceImpl.java:24) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.registerRequest(MobileServiceTester.java:41) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.main(MobileServiceTester.java:25) [classes/:?]
+22-Apr-2025 22:34:42 ERROR - Validator.INVALID_BRAND
+com.infy.exception.MobileServiceException: Validator.INVALID_BRAND
+	at com.infy.validator.Validator.validate(Validator.java:21) ~[classes/:?]
+	at com.infy.service.MobileServiceImpl.registerRequest(MobileServiceImpl.java:24) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.registerRequest(MobileServiceTester.java:41) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.main(MobileServiceTester.java:25) [classes/:?]
+22-Apr-2025 22:40:28 ERROR - Validator.INVALID_BRAND
+com.infy.exception.MobileServiceException: Validator.INVALID_BRAND
+	at com.infy.validator.Validator.validate(Validator.java:21) [classes/:?]
+	at com.infy.service.MobileServiceImpl.registerRequest(MobileServiceImpl.java:24) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.registerRequest(MobileServiceTester.java:41) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.main(MobileServiceTester.java:25) [classes/:?]
+22-Apr-2025 22:40:28 DEBUG - com.infy.exception.MobileServiceException: Validator.INVALID_BRAND
+22-Apr-2025 22:53:41 ERROR - Validator.INVALID_BRAND
+com.infy.exception.MobileServiceException: Validator.INVALID_BRAND
+	at com.infy.validator.Validator.validate(Validator.java:21) [classes/:?]
+	at com.infy.service.MobileServiceImpl.registerRequest(MobileServiceImpl.java:25) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.registerRequest(MobileServiceTester.java:41) [classes/:?]
+	at com.infy.userinterface.MobileServiceTester.main(MobileServiceTester.java:25) [classes/:?]
+22-Apr-2025 22:53:41 DEBUG - com.infy.exception.MobileServiceException: Validator.INVALID_BRAND
