@@ -1,0 +1,157 @@
+13-Jul-2020 14:55:49 INFO - Starting DemoSpringDataOneToManyMappingApplication on MYSHEC119503L with PID 1452 (D:\content\FA2\new\zips\Demo_SpringData_OneToManyMapping\Demo_SpringData_OneToManyMapping\target\classes started by ria.singh in D:\content\FA2\new\zips\Demo_SpringData_OneToManyMapping\Demo_SpringData_OneToManyMapping)
+13-Jul-2020 14:55:49 INFO - No active profile set, falling back to default profiles: default
+13-Jul-2020 14:55:51 INFO - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+13-Jul-2020 14:55:51 INFO - Finished Spring Data repository scanning in 102ms. Found 2 JPA repository interfaces.
+13-Jul-2020 14:55:52 INFO - Initializing ExecutorService 'applicationTaskExecutor'
+13-Jul-2020 14:55:52 INFO - HikariPool-1 - Starting...
+13-Jul-2020 14:55:53 INFO - HikariPool-1 - Start completed.
+13-Jul-2020 14:55:53 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+13-Jul-2020 14:55:54 INFO - HHH000412: Hibernate ORM core version 5.4.17.Final
+13-Jul-2020 14:55:54 INFO - Triggering deferred initialization of Spring Data repositories…
+13-Jul-2020 14:55:54 INFO - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+13-Jul-2020 14:55:54 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+13-Jul-2020 14:55:56 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13-Jul-2020 14:55:56 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+13-Jul-2020 14:55:56 INFO - Spring Data repositories initialized!
+13-Jul-2020 14:55:56 INFO - Started DemoSpringDataOneToManyMappingApplication in 7.746 seconds (JVM running for 9.485)
+13-Jul-2020 14:55:56 INFO - CustomerDTO [customerId=1001, emailId=steven@infy.com, name=Steven Martin, dateOfBirth=2000-01-24, cards=[CardDTO [cardId=12346, cardNumber=6642160005012193, expiryDate=2029-11-03], CardDTO [cardId=12347, cardNumber=6642160005012194, expiryDate=2033-01-06], CardDTO [cardId=12348, cardNumber=6642160005012195, expiryDate=2023-09-16]]]
+13-Jul-2020 14:58:20 INFO - Starting DemoSpringDataOneToManyMappingApplication on MYSHEC119503L with PID 5584 (D:\content\FA2\new\zips\Demo_SpringData_OneToManyMapping\Demo_SpringData_OneToManyMapping\target\classes started by ria.singh in D:\content\FA2\new\zips\Demo_SpringData_OneToManyMapping\Demo_SpringData_OneToManyMapping)
+13-Jul-2020 14:58:20 INFO - No active profile set, falling back to default profiles: default
+13-Jul-2020 14:58:21 INFO - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+13-Jul-2020 14:58:21 INFO - Finished Spring Data repository scanning in 114ms. Found 2 JPA repository interfaces.
+13-Jul-2020 14:58:22 INFO - Initializing ExecutorService 'applicationTaskExecutor'
+13-Jul-2020 14:58:22 INFO - HikariPool-1 - Starting...
+13-Jul-2020 14:58:23 INFO - HikariPool-1 - Start completed.
+13-Jul-2020 14:58:23 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+13-Jul-2020 14:58:24 INFO - HHH000412: Hibernate ORM core version 5.4.17.Final
+13-Jul-2020 14:58:24 INFO - Triggering deferred initialization of Spring Data repositories…
+13-Jul-2020 14:58:24 INFO - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+13-Jul-2020 14:58:25 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+13-Jul-2020 14:58:26 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13-Jul-2020 14:58:26 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+13-Jul-2020 14:58:26 INFO - Spring Data repositories initialized!
+13-Jul-2020 14:58:26 INFO - Started DemoSpringDataOneToManyMappingApplication in 6.629 seconds (JVM running for 8.306)
+13-Jul-2020 14:58:26 INFO - CustomerDTO [customerId=1001, emailId=steven@infy.com, name=Steven Martin, dateOfBirth=2000-01-24, cards=[CardDTO [cardId=12346, cardNumber=6642160005012193, expiryDate=2029-11-03], CardDTO [cardId=12347, cardNumber=6642160005012194, expiryDate=2033-01-06], CardDTO [cardId=12348, cardNumber=6642160005012195, expiryDate=2023-09-16]]]
+13-Jul-2020 14:59:44 INFO - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+13-Jul-2020 14:59:44 INFO - Finished Spring Data repository scanning in 111ms. Found 2 JPA repository interfaces.
+13-Jul-2020 14:59:45 INFO - Initializing ExecutorService 'applicationTaskExecutor'
+13-Jul-2020 14:59:45 INFO - HikariPool-1 - Starting...
+13-Jul-2020 14:59:46 INFO - HikariPool-1 - Start completed.
+13-Jul-2020 14:59:46 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+13-Jul-2020 14:59:47 INFO - HHH000412: Hibernate ORM core version 5.4.17.Final
+13-Jul-2020 14:59:47 INFO - Triggering deferred initialization of Spring Data repositories…
+13-Jul-2020 14:59:47 INFO - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+13-Jul-2020 14:59:47 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+13-Jul-2020 14:59:48 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13-Jul-2020 14:59:49 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+13-Jul-2020 14:59:49 INFO - Spring Data repositories initialized!
+13-Jul-2020 15:00:49 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+17-Jul-2020 15:16:28 INFO - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+17-Jul-2020 15:16:29 INFO - Finished Spring Data repository scanning in 124ms. Found 2 JPA repository interfaces.
+17-Jul-2020 15:16:30 INFO - Initializing ExecutorService 'applicationTaskExecutor'
+17-Jul-2020 15:16:30 INFO - HikariPool-1 - Starting...
+17-Jul-2020 15:16:31 INFO - HikariPool-1 - Start completed.
+17-Jul-2020 15:16:31 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+17-Jul-2020 15:16:31 INFO - HHH000412: Hibernate ORM core version 5.4.17.Final
+17-Jul-2020 15:16:32 INFO - Triggering deferred initialization of Spring Data repositories…
+17-Jul-2020 15:16:32 INFO - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+17-Jul-2020 15:16:32 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+17-Jul-2020 15:16:34 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17-Jul-2020 15:16:34 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+17-Jul-2020 15:16:34 INFO - Spring Data repositories initialized!
+17-Jul-2020 15:17:17 INFO - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+17-Jul-2020 15:17:17 INFO - Finished Spring Data repository scanning in 172ms. Found 2 JPA repository interfaces.
+17-Jul-2020 15:17:19 INFO - Initializing ExecutorService 'applicationTaskExecutor'
+17-Jul-2020 15:17:19 INFO - HikariPool-1 - Starting...
+17-Jul-2020 15:17:21 INFO - HikariPool-1 - Start completed.
+17-Jul-2020 15:17:21 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+17-Jul-2020 15:17:21 INFO - HHH000412: Hibernate ORM core version 5.4.17.Final
+17-Jul-2020 15:17:21 INFO - Triggering deferred initialization of Spring Data repositories…
+17-Jul-2020 15:17:22 INFO - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+17-Jul-2020 15:17:22 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+17-Jul-2020 15:17:24 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17-Jul-2020 15:17:24 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+17-Jul-2020 15:17:24 INFO - Spring Data repositories initialized!
+17-Jul-2020 15:17:55 INFO - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+17-Jul-2020 15:17:55 INFO - Finished Spring Data repository scanning in 135ms. Found 2 JPA repository interfaces.
+17-Jul-2020 15:17:57 INFO - Initializing ExecutorService 'applicationTaskExecutor'
+17-Jul-2020 15:17:57 INFO - HikariPool-1 - Starting...
+17-Jul-2020 15:17:58 INFO - HikariPool-1 - Start completed.
+17-Jul-2020 15:17:58 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+17-Jul-2020 15:17:58 INFO - HHH000412: Hibernate ORM core version 5.4.17.Final
+17-Jul-2020 15:17:59 INFO - Triggering deferred initialization of Spring Data repositories…
+17-Jul-2020 15:17:59 INFO - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+17-Jul-2020 15:18:00 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+17-Jul-2020 15:18:02 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17-Jul-2020 15:18:02 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+17-Jul-2020 15:18:03 INFO - Spring Data repositories initialized!
+17-Jul-2020 15:18:24 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+17-Jul-2020 15:18:33 INFO - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+17-Jul-2020 15:18:33 INFO - Finished Spring Data repository scanning in 124ms. Found 2 JPA repository interfaces.
+17-Jul-2020 15:18:34 INFO - Initializing ExecutorService 'applicationTaskExecutor'
+17-Jul-2020 15:18:34 INFO - HikariPool-1 - Starting...
+17-Jul-2020 15:18:36 INFO - HikariPool-1 - Start completed.
+17-Jul-2020 15:18:36 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+17-Jul-2020 15:18:36 INFO - HHH000412: Hibernate ORM core version 5.4.17.Final
+17-Jul-2020 15:18:36 INFO - Triggering deferred initialization of Spring Data repositories…
+17-Jul-2020 15:18:37 INFO - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+17-Jul-2020 15:18:37 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+17-Jul-2020 15:18:39 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17-Jul-2020 15:18:39 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+17-Jul-2020 15:18:40 INFO - Spring Data repositories initialized!
+17-Jul-2020 15:19:34 INFO - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+17-Jul-2020 15:19:34 INFO - Finished Spring Data repository scanning in 139ms. Found 2 JPA repository interfaces.
+17-Jul-2020 15:19:35 INFO - Initializing ExecutorService 'applicationTaskExecutor'
+17-Jul-2020 15:19:35 INFO - HikariPool-1 - Starting...
+17-Jul-2020 15:19:36 INFO - HikariPool-1 - Start completed.
+17-Jul-2020 15:19:36 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+17-Jul-2020 15:19:37 INFO - HHH000412: Hibernate ORM core version 5.4.17.Final
+17-Jul-2020 15:19:37 INFO - Triggering deferred initialization of Spring Data repositories…
+17-Jul-2020 15:19:38 INFO - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+17-Jul-2020 15:19:38 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+17-Jul-2020 15:19:39 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+17-Jul-2020 15:19:40 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17-Jul-2020 15:19:40 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+17-Jul-2020 15:19:41 INFO - Spring Data repositories initialized!
+29-Dec-2021 14:47:10 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+29-Dec-2021 14:47:10 INFO - Finished Spring Data repository scanning in 35 ms. Found 2 JPA repository interfaces.
+29-Dec-2021 14:47:10 INFO - HikariPool-1 - Starting...
+29-Dec-2021 14:47:11 INFO - HikariPool-1 - Start completed.
+29-Dec-2021 14:47:11 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+29-Dec-2021 14:47:11 INFO - HHH000412: Hibernate ORM core version 5.6.3.Final
+29-Dec-2021 14:47:11 INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+29-Dec-2021 14:47:11 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+29-Dec-2021 14:47:12 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+29-Dec-2021 14:47:12 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+29-Dec-2021 14:47:12 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+29-Dec-2021 14:47:12 INFO - HikariPool-1 - Shutdown initiated...
+29-Dec-2021 14:47:12 INFO - HikariPool-1 - Shutdown completed.
+29-Dec-2021 17:17:07 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+29-Dec-2021 17:17:07 INFO - Finished Spring Data repository scanning in 56 ms. Found 2 JPA repository interfaces.
+29-Dec-2021 17:17:08 INFO - HikariPool-1 - Starting...
+29-Dec-2021 17:17:08 INFO - HikariPool-1 - Start completed.
+29-Dec-2021 17:17:08 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+29-Dec-2021 17:17:08 INFO - HHH000412: Hibernate ORM core version 5.6.3.Final
+29-Dec-2021 17:17:09 INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+29-Dec-2021 17:17:09 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+29-Dec-2021 17:17:09 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+29-Dec-2021 17:17:09 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+29-Dec-2021 17:17:10 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+29-Dec-2021 17:17:10 INFO - HikariPool-1 - Shutdown initiated...
+29-Dec-2021 17:17:10 INFO - HikariPool-1 - Shutdown completed.
+05-Jul-2023 09:46:39 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+05-Jul-2023 09:46:40 INFO - Finished Spring Data repository scanning in 167 ms. Found 2 JPA repository interfaces.
+05-Jul-2023 09:46:41 INFO - HikariPool-1 - Starting...
+05-Jul-2023 09:46:42 INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2eda4eeb
+05-Jul-2023 09:46:42 INFO - HikariPool-1 - Start completed.
+05-Jul-2023 09:46:42 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+05-Jul-2023 09:46:42 INFO - HHH000412: Hibernate ORM core version 6.2.5.Final
+05-Jul-2023 09:46:42 INFO - HHH000406: Using bytecode reflection optimizer
+05-Jul-2023 09:46:43 INFO - HHH000021: Bytecode provider name : bytebuddy
+05-Jul-2023 09:46:44 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+05-Jul-2023 09:46:44 INFO - HHH000021: Bytecode provider name : bytebuddy
+05-Jul-2023 09:46:46 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+05-Jul-2023 09:46:46 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+05-Jul-2023 09:46:48 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+05-Jul-2023 09:46:48 INFO - HikariPool-1 - Shutdown initiated...
+05-Jul-2023 09:46:48 INFO - HikariPool-1 - Shutdown completed.
