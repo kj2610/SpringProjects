@@ -32,8 +32,8 @@ public class DemoSpringBootJpqlSelectApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 		getCustomerdetails();
-//		getCustomerNameAndDob();
-//		getCustomerNames();
+		getCustomerNameAndDob();
+		getCustomerNames();
 
 	}
 	public  void getCustomerdetails(){
