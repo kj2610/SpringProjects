@@ -36,7 +36,7 @@ public class DemoSpringBootJpqlSelectApplication implements CommandLineRunner {
 	public void getCustomerdetails() {
 
 		try {
-			List<CustomerDTO> customerDTOs = service.getCustomerdetails(1001);
+			List<CustomerDTO> customerDTOs = service.getCustomerdetails(1002);
 
 			for (CustomerDTO customerDTO : customerDTOs) {
 				LOGGER.info(customerDTO);

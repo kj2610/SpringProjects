@@ -21,11 +21,21 @@ public class CustomerRepositoryImpl implements CustomerRepository {
 	@Override
 	public List<CustomerDTO> getCustomerdetails(Integer customerId) {
 		List<CustomerDTO> customerDTOs = null;
-
-		// Comment the below 3 lines while using named parameter
-		String queryString = "select c from Customer c where c.customerId=?1";
+//		String queryString = "select c from Customer c where c.customerId=?1";
+//		Query query = entityManager.createQuery(queryString);
+//		query.setParameter(1,customerId);
+//		List<Customer> customers = query.getResultList();
+		
+		String queryString = "select c from Customer c where c.customerId=:customerId";
 		Query query = entityManager.createQuery(queryString);
-		query.setParameter(1, customerId);
+		query.setParameter("customerId",customerId);
+		List<Customer>customers = query.getResultList();
+		
+		// Comment the below 3 lines while using named parameter
+		
+//		String queryString = "select c from Customer c where c.customerId=?1";
+//		Query query = entityManager.createQuery(queryString);
+//		query.setParameter(1, customerId);
 
 		// Uncomment the below code for using named parameter
 		/*
@@ -34,9 +44,6 @@ public class CustomerRepositoryImpl implements CustomerRepository {
 		 * query=entityManager.createQuery(queryString);
 		 * query.setParameter("customerId", customerId);
 		 */
-
-		List<Customer> customers = query.getResultList();
-
 		customerDTOs = new ArrayList<>();
 
 		for (Customer customer : customers) {

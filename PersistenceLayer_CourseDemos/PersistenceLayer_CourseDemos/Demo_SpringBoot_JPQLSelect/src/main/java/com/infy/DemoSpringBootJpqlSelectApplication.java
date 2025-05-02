@@ -40,12 +40,15 @@ public class DemoSpringBootJpqlSelectApplication implements CommandLineRunner {
 
 
 		try {
-			List<CustomerDTO> customerDTOs=service.getCustomerdetails();
-			
-			for (CustomerDTO customerDTO : customerDTOs) {
-				LOGGER.info(customerDTO);
-			}
-			LOGGER.info("\n");
+			List<CustomerDTO> customerDTO = service.getCustomerdetails();
+			customerDTO.forEach(LOGGER::info);
+			LOGGER.info("/n");
+//			List<CustomerDTO> customerDTOs=service.getCustomerdetails();
+//			
+//			for (CustomerDTO customerDTO : customerDTOs) {
+//				LOGGER.info(customerDTO);
+//			}
+//			LOGGER.info("\n");
 
 		} catch (Exception e) {
 			String message = environment.getProperty(e.getMessage(),"Some exception occured. Please check log file for more details!!");

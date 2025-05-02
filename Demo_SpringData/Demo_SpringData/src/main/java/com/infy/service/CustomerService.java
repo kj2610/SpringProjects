@@ -16,5 +16,6 @@ public interface CustomerService {
 	public List<CustomerDTO> getAllCustomer() throws InfyBankException;
 	
 	
+	
 
 }
